@@ -1,0 +1,23 @@
+
+body {
+    background-image: url(https://img.freepik.com/free-photo/design-space-paper-textured-background_53876-42312.jpg?w=826&t=st=1678027864~exp=1678028464~hmac=92fd90e377a14fd46de587f904af178918fb77e56ed8dd51699f1cef9eaf7a8f);
+}
+
+h1 {
+    background-color: rgba(255, 192, 203, 0.659);
+    color: black;
+    font-family: fantasy;
+    text-decoration: underline;
+    display:flex;
+    justify-content: center;
+
+}
+
+form , section {
+    font-family: fantasy;
+}
+
+
+h2{
+    text-decoration: underline;
+}
